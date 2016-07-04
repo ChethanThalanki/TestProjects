@@ -3,7 +3,7 @@ package com.chethan.testProjects;
 import java.util.Scanner;
 
 /**
- * Created by i322682 on 04/07/16.
+ * Yet to complete the code
  */
 public class BusGossip {
     public static void main(String args[]) {
